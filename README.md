@@ -3,6 +3,7 @@
 ## Identities
 
 * [keybase](https://keybase.io/mcfadzean)
+* [linkedin](https://www.linkedin.com/in/davidmc/)
 
 ## Roles
 
