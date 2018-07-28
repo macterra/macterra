@@ -2,4 +2,5 @@
 
 ## Roles
 
-* [Operator]() in [Cryptonomicon](https://equibit.github.io/Cryptonomicon/).
+* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/) [Player]().
+* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/) [Operator]().
