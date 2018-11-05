@@ -1,5 +1,7 @@
 # David McFadzean (macterra)
 
+crypto-anarchist // engineer-scientist // extropian-transhumanist // pancritical-rationalist // agnostic-atheist // modal-realist // stoic-epicurean
+
 <img align="right" width="250" src="masquerade.jpg">
 
 I'm fascinated by the nature of intelligent systems. I want to understand natural minds and build artificial ones. I'm also very interested in building technology that enables groups to become more intelligent. Philosophically I'm interested in the relation between intelligence, rationality and ethics.
