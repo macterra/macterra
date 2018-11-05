@@ -15,5 +15,8 @@ I have the most respect for critical thinkers who can express their ideas with c
 
 ## Roles
 
-* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/) [Player]().
-* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/) [Operator]().
+* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/)
+  * [Player]()
+  * [Operator]()
+* [Testnet-Alpha](https://equibit.github.io/Testnet-Alpha/)
+  * [Player]().
