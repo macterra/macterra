@@ -1,4 +1,4 @@
-# David McFadzean (macterra)
+# David McFadzean (@macterra)
 
 crypto-anarchist // engineer-scientist // extropian-transhumanist // pancritical-rationalist // agnostic-atheist // modal-realist // stoic-epicurean
 
@@ -12,6 +12,7 @@ I have the most respect for critical thinkers who can express their ideas with c
 
 ## Identities
 
+* [github](https://github.com/macterra)
 * [keybase](https://keybase.io/mcfadzean)
 * [linkedin](https://www.linkedin.com/in/davidmc/)
 
