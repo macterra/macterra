@@ -17,11 +17,9 @@ I have the most respect for critical thinkers who can express their ideas with c
 * [linkedin](https://www.linkedin.com/in/davidmc/)
 
 ## Roles
-* [Cryptonomicon](https://equibit.github.io/Cryptonomicon/)
-  * [Player]()
-  * [Operator]()
-* [Testnet-Alpha](https://equibit.github.io/Testnet-Alpha/)
-  * [Player]()
+* [Cryptonomicon](https://macterra.github.io/Cryptonomicon/)
+  * [Player](https://macterra.github.io/Cryptonomicon/Roles/Player)
+  * [Operator](https://macterra.github.io/Cryptonomicon/Roles/Operator)
   
 ## Achievements
 TBD
