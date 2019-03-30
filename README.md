@@ -9,12 +9,13 @@ I'm fascinated by the nature of intelligent systems. I want to understand natura
 
 Socially I prefer to operate behind the scenes so that only those in the know recognize my contributions. My Kiersey temperament is INT* which corresponds to Mastermind/Architect, a description I like.
 
-I have the most respect for critical thinkers who can express their ideas with clarity. I think people are best understood as the product of two kinds of replicators: genes and memes. I think evolution is an incredibly powerful concept. I think life is best lived as a game. I think there is great beauty in logic as expressed in mathematics and algorithms.
+I have the most respect for critical thinkers who can express their ideas with clarity. I think people are best understood as the product of two kinds of replicators: genes and memes. I think evolution is an incredibly powerful concept. I think life is best lived as a game. If I was a [hedgehog](https://www.npr.org/2018/04/30/606024243/the-fox-and-the-hedgehog-the-triumphs-and-perils-of-going-big) my paradigm would be game theory. I think there is great beauty in logic as expressed in mathematics and algorithms.
 
 ## Identities
 * [github](https://github.com/macterra)
 * [keybase](https://keybase.io/mcfadzean)
 * [linkedin](https://www.linkedin.com/in/davidmc/)
+* [twitter](https://twitter.com/macterra)
 
 ## Roles
 * [Cryptonomicon](https://macterra.github.io/Cryptonomicon/)
