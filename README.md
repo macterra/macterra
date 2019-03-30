@@ -1,6 +1,6 @@
 # David McFadzean (@macterra)
 
-[crypto](https://www.activism.net/cypherpunk/crypto-anarchy.html)-[anarchist](https://www.eff.org/cyberspace-independence) // engineer-scientist // extropian-transhumanist // pancritical-rationalist // agnostic-atheist // modal-realist // stoic-epicurean
+[crypto](https://www.activism.net/cypherpunk/crypto-anarchy.html)-[anarchist](https://www.eff.org/cyberspace-independence) // engineer-scientist // [extropian](https://en.wikipedia.org/wiki/Extropianism)-[transhumanist](https://en.wikipedia.org/wiki/Transhumanism) // pancritical-rationalist // agnostic-atheist // modal-realist // stoic-epicurean
 
 <img align="right" width="250" src="masquerade.jpg">
 
