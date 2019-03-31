@@ -18,9 +18,9 @@ I have the most respect for critical thinkers who can express their ideas with c
 * [twitter](https://twitter.com/macterra)
 
 ## Roles
-* [Cryptonomicon](https://macterra.github.io/Cryptonomicon/)
-  * [Player](https://macterra.github.io/Cryptonomicon/Roles/Player)
-  * [Operator](https://macterra.github.io/Cryptonomicon/Roles/Operator)
+* [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
+  * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
+  * [Operator](https://cryptotechguru.github.io/Cryptonomicon/Roles/Operator)
   
 ## Achievements
 TBD
