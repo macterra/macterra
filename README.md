@@ -16,6 +16,7 @@ I have the most respect for critical thinkers who can express their ideas with c
 * [keybase](https://keybase.io/mcfadzean)
 * [linkedin](https://www.linkedin.com/in/davidmc/)
 * [twitter](https://twitter.com/macterra)
+* [ulex.app](https://ulex.app/user/macterra)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
