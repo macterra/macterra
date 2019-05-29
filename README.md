@@ -21,6 +21,9 @@ I have the most respect for critical thinkers who can express their ideas with c
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   * [Operator](https://cryptotechguru.github.io/Cryptonomicon/Roles/Operator)
+* [Lexinomicon](https://ulex-opensource.github.io/Lexinomicon/)
+  * [Player](https://ulex-opensource.github.io/Lexinomicon/Roles/Player)
+  * [Operator](https://ulex-opensource .github.io/Lexinomicon/Roles/Operator)
   
 ## Achievements
 TBD
